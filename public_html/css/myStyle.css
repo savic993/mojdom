@@ -1,0 +1,163 @@
+.snipcart-thumb a img
+{
+    height: 150px;
+}
+/*.snipcart-thumb p
+{
+    width: 90%;
+}*/
+.margin
+{
+    margin-bottom: 20px;
+}
+.snipcart-thumb p
+{
+    text-transform: uppercase;
+}
+#comment
+{
+    /* float: right;
+    margin-right: 150px;
+    margin-bottom: 100px; */
+    padding-bottom: 20px;
+    /* border: 1px solid #ccc; */
+}
+.formComment
+{
+    width: 60%;
+    margin: 10px auto;
+    margin-bottom: 40px;
+}
+#comment h3
+{
+    text-align:center;
+    color:#212121;
+    padding-bottom:.5em;
+    position:relative;
+    font-size: 2.5em;
+    text-transform: uppercase;
+}
+#comment-text
+{
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    /* border: 1px solid #ccc; */
+    width: 70%;
+    margin:0 auto;
+}
+.border
+{
+    border-top: 1px solid #ccc;
+}
+#comment img
+{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+}
+#comment p
+{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+.gallery
+{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border: 1px solid #ccc;
+    float: left;
+    height: 300px;
+}
+.gallery:hover
+{
+    border: 1px solid #777;
+}
+.gallery img
+{
+    width: 100%;
+}
+.desc
+{
+    text-align: center;
+}
+.col {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+.col img {
+    opacity: 0.8;
+    cursor: pointer;
+    width: 90%;
+}
+.col img:hover {
+    opacity: 1;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+#gallery
+{
+    margin: 50px auto;
+}
+#gallery-images
+{
+    margin: 50px auto;
+}
+.snipcart-thumb
+{
+    text-transform: uppercase;
+}
+#mainTable img
+{
+    width: 60%;
+}
+.snipcart-details h3
+{
+    font-size: 24px;
+    font-weight: normal;
+}
+.space
+{
+    margin-bottom: 20px;
+}
+#banner img
+{
+    width: 65%;
+    height: 65%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.btnFloat
+{
+    margin-left: 0px;
+}
+#alert
+{
+    margin-top: 10px;
+}
+select#user, select#role 
+{
+    border: 1px solid #212121;
+    outline: none;
+    font-size: 14px;
+    color: #212121;
+    padding: 0.5em;
+    width: 100%;
+    cursor: pointer;
+}
+#widget
+{
+    margin-bottom:20px;
+}
+.space
+{
+    margin-right: 0 !important;
+}
